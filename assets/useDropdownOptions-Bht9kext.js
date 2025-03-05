@@ -1,0 +1,1 @@
+import{a}from"./index-CJtyaUy2.js";import{r as e}from"./index-BGi8GpGv.js";function c(){const t=e([]);async function o(n){const s=await a(n).getOptions(),{result:r,body:i}=s||{};r.httpStatus===200&&(t.value=i)}return{options:t,fetchOptions:o}}export{c as u};

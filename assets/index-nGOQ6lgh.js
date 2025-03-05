@@ -1,0 +1,1 @@
+import{A as o}from"./Appbar-ctTZ3OoH.js";import{_ as t,e as s,d as e,f as r,F as n,o as _,a as c}from"./index-BGi8GpGv.js";const p={class:"auth-main"},m={__name:"index",setup(d){return(i,l)=>{const a=c("router-view");return _(),s(n,null,[e(o),r("div",p,[e(a)])],64)}}},v=t(m,[["__scopeId","data-v-eb4e31ea"]]);export{v as default};

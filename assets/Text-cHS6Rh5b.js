@@ -1,0 +1,1 @@
+import{o as t,e as a,t as c}from"./index-BGi8GpGv.js";const m={__name:"Text",props:{item:{type:Object,default:()=>({})},column:{type:Object,default:()=>({})}},setup(e){return(l,n)=>(t(),a("div",null,c(e.item[e.column.key]),1))}};export{m as default};

@@ -1,0 +1,1 @@
+import{_ as e,a as s,o as n,c as r,b as a,O as c,J as p,K as _}from"./index-BGi8GpGv.js";const u={};function d(t,i){const o=s("Input",!0);return n(),r(o,p(_(t.$attrs)),{tooltip:a(()=>[c(t.$slots,"tooltip",{},void 0,!0)]),_:3},16)}const f=e(u,[["render",d],["__scopeId","data-v-9b1b5bc6"]]);export{f as default};

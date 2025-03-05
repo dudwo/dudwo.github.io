@@ -1,0 +1,1 @@
+import{o as t,e as c,t as o}from"./index-BGi8GpGv.js";const a={class:"bu-body-13-link"},i={__name:"Link",props:{item:{type:Object,default:()=>({})},column:{type:Object,default:()=>({})}},setup(e){return(n,s)=>(t(),c("div",a,o(e.item[e.column.key]),1))}};export{i as default};
