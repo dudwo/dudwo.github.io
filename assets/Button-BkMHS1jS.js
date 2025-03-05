@@ -1,0 +1,1 @@
+import{_ as t,o as n,e as o,O as r}from"./index-BGi8GpGv.js";const s={};function a(e,c){return n(),o("button",null,[r(e.$slots,"default",{},void 0,!0)])}const d=t(s,[["render",a],["__scopeId","data-v-e736853e"]]);export{d as default};

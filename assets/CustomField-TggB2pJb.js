@@ -1,0 +1,1 @@
+import{o as s,c as a,J as o,K as r,x as c}from"./index-BGi8GpGv.js";const n={__name:"CustomField",props:{customName:{type:String,default:"custom"},slots:{type:Object,default:()=>({})}},setup(e){return(t,m)=>(s(),a(c(e.slots[e.customName]),o(r(t.$attrs)),null,16))}};export{n as default};

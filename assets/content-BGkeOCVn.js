@@ -1,0 +1,1 @@
+import{S as o}from"./index-BGi8GpGv.js";const e="/api/v1/content",p=a=>{const t=new FormData;return t.append("file",a),o.post(`${e}/upload`,t,{headers:{"Content-Type":"multipart/form-data"}})};export{p as u};
